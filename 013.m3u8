@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3884000,RESOLUTION=1920x1080
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w640739172_b3884000_sleng.m3u8
