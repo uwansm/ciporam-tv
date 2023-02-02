@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:89695
+#EXT-X-DISCONTINUITY-SEQUENCE:0
+#EXT-X-PROGRAM-DATE-TIME:2023-02-02T06:41:30.000Z
+#EXTINF:5.0,
+https://kozoom-tv-distro.evrideo.tv/ae60ea81-15c8-4a4a-97e3-fa45c64431d5_0_HLS/video_1080p_1000014572/728635290000.ts
+#EXTINF:5.0,
+https://kozoom-tv-distro.evrideo.tv/ae60ea81-15c8-4a4a-97e3-fa45c64431d5_0_HLS/video_1080p_1000014572/728635295000.ts
+#EXTINF:5.0,
+https://kozoom-tv-distro.evrideo.tv/ae60ea81-15c8-4a4a-97e3-fa45c64431d5_0_HLS/video_1080p_1000014572/728635300000.ts
+#EXTINF:5.0,
+https://kozoom-tv-distro.evrideo.tv/ae60ea81-15c8-4a4a-97e3-fa45c64431d5_0_HLS/video_1080p_1000014572/728635305000.ts
+#EXTINF:5.0,
+https://kozoom-tv-distro.evrideo.tv/ae60ea81-15c8-4a4a-97e3-fa45c64431d5_0_HLS/video_1080p_1000014572/728635310000.ts
